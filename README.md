@@ -59,5 +59,3 @@ graph TD
     XMLFileParser -->|File Processing and Output File Generator | FileUtils
     FileUtils -->|Sentence and Word processing| Client
 ```# FileProcessorApplication
-# FileProcessorApplication
-# FileProcessorApplication
